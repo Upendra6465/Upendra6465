@@ -6,7 +6,7 @@ Upendra 👋
 
 
 
-### - I'm 21 years old tech Enthusiast from India.
+### -Machine learning enthusiast with a passion for AI & software development. Sharing AI, NLP, and Python projects. Open to collaboration!
 
 ### - Learning :
 - ✨ Artificial Intelligence
