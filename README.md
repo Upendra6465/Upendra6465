@@ -17,6 +17,7 @@ Upendra 👋
 ### - Hobbies : 
 - ✨ Cooking
 - ✨ Watching movies
+- ✨ Exploring new things
   
 
 </h>  
@@ -44,7 +45,7 @@ Upendra 👋
 </br>
 
  Contact Me :
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me.
+If you want to reach out to me about anything, just ping me.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashujha4444@gmail.com)](mailto:uppariupendra11@gmail.com@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/u-upendra/)
