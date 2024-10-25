@@ -15,9 +15,9 @@ Upendra 👋
 
   
 ### - Hobbies : 
-- ✨ Cooking
-- ✨ Watching movies
 - ✨ Exploring new things
+- ✨ Watching movies
+- ✨ Reading articles
   
 
 </h>  
