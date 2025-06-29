@@ -11,6 +11,7 @@ Upendra 👋
 ### - Learning :
 - ✨ Artificial Intelligence
 - ✨ Machine Learning
+- ✨ Data Science
 - ✨ Software engineer
 
   
