@@ -9,10 +9,9 @@ Upendra 👋
 ### -Machine learning enthusiast with a passion for AI & software development. Sharing AI, NLP, and Python projects. Open to collaboration!
 
 ### - Learning :
-- ✨ Artificial Intelligence
-- ✨ Machine Learning
+- ✨ Data Engineer
+- ✨ AIML
 - ✨ Data Science
-- ✨ Software engineer
 
   
 ### - Hobbies : 
